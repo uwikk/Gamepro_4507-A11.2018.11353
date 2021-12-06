@@ -1,0 +1,7 @@
+A11.2018.11353 - Muhammad Dwi Cahyono
+
+- Cube -> Component : Transform, Cube(Mesh Filter), Mesh Renderer, Box Colider, Default Material
+- Quad -> Component : Transform, Quad(Mesh Filter), Mesh Renderer, Mesh Colider, Default Material
+- Sphere -> Component : Transform, Sphere(Mesh Filter), Mesh Renderer, Sphere Colider, Default Material
+- Capsule -> Component : Transform, Capsule(Mesh Filter), Mesh Renderer, Capsule Colider, Default Material
+- Plane -> Component : Transform, Plane(Mesh Filter), Mesh Renderer, Mesh Colider, Default Material
